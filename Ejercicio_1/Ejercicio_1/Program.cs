@@ -24,5 +24,6 @@ namespace Ejercicio_1
             {
                 Console.WriteLine("Los numeros son iguales");
             }
+        }
     }
 }
